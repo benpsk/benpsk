@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a PHP (Laravel) Developer even though PHP is not the top of my most used language. LOL.
+- 🔭 I’m currently working on PHP and JavaScript projects.
+- 🌱 I’m currently learning Golang.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benpsk)](https://github.com/anuraghazra/github-readme-stats)
