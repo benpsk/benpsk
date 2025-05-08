@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PHP and JavaScript projects.
 - 🌱 I’m learning Go.
 
-[![Top Langs](https://github-readme-stats-rho-five-46.vercel.app/api/top-langs/?username=benpsk&exclude_repo=aceplus-code,bp-code,msis-code,java&hide=blade,html,css,mdx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rho-five-46.vercel.app/api/top-langs/?username=benpsk&exclude_repo=aceplus-code,bp-code,msis-code,java,java-course-bestbright&hide=blade,html,css,mdx)](https://github.com/anuraghazra/github-readme-stats)
